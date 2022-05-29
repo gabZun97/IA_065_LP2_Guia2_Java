@@ -1,0 +1,15 @@
+
+E
+java:S1659"#Declare "costo" on a separate line.(Ûıßåşÿÿÿÿ8Ù•ıÆş/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦Ñ“8ß•ıÆş/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ß¬‚›8à•ıÆş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªëïÒøÿÿÿÿ8á•ıÆş/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ß¬‚›8â•ıÆş/
+T	java:S106!"9Replace this use of System.out or System.err by a logger.( ¯ŞS8â•ıÆş/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ß¬‚›8ã•ıÆş/
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(§‡Ÿ&8ã•ıÆş/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(˜Şò¤ÿÿÿÿÿ8ä•ıÆş/
+“
+java:S1192"vDefine a constant instead of duplicating this literal "El pago que se debe efectuar a la compaÃ±Ã­a es de: $" 3 times.(ß¬‚›8å•ıÆş/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Õçıî
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üİ¸–ûÿÿÿÿ

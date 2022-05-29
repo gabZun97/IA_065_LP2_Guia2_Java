@@ -1,0 +1,30 @@
+
+c
+java:S1659"ADeclare "peso" and all following declarations on a separate line.(“³¯§øÿÿÿÿ8œ–éáş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦ü¶”ûÿÿÿÿ8¥–éáş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”Ü¡Šüÿÿÿÿ8¦–éáş/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(¦ü¶”ûÿÿÿÿ8¨–éáş/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¾İı¹üÿÿÿÿ8©–éáş/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(›Š”Éüÿÿÿÿ8ª–éáş/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ìÃü8«–éáş/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(¼°ç¢8¬–éáş/
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(ğ Î08­–éáş/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(Ùñ×ˆ8®–éáş/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(½—æÆ8®–éáş/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(¦ü¶”ûÿÿÿÿ8¯–éáş/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(¹„¹¤8°–éáş/
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(Á±ï¬ıÿÿÿÿ8»–éáş/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(õİâş8¼–éáş/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ùóã şÿÿÿÿ8½–éáş/
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(‚Ûù³ùÿÿÿÿ8¾–éáş/
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(ùóã şÿÿÿÿ8¾–éáş/
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(É´ğëıÿÿÿÿ8¿–éáş/
+U	java:S106O"9Replace this use of System.out or System.err by a logger.(°·¶8¿–éáş/
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(•ÛÄ—ûÿÿÿÿ8À–éáş/
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(É´ğëıÿÿÿÿ8Á–éáş/
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(¹–ö8Â–éáş/
+T	java:S106T"9Replace this use of System.out or System.err by a logger.(˜¯‹h8Ä–éáş/
+¥
+java:S1192"‚Define a constant instead of duplicating this literal "=================================================================" 3 times.(¦ü¶”ûÿÿÿÿ8Í–éáş/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ôœÃñ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üİ¸–ûÿÿÿÿ

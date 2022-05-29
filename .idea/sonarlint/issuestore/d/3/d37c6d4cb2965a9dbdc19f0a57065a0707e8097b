@@ -1,0 +1,22 @@
+
+W
+java:S1854"5Remove this useless assignment to local variable "a".(ÆâÓÃúÿÿÿÿ8¤‰ÃÉş/
+`
+java:S1659">Declare "m" and all following declarations on a separate line.(“˜ûçùÿÿÿÿ8¦‰ÃÉş/
+H
+java:S1481"&Remove this unused "a" local variable.(“˜ûçùÿÿÿÿ8¯‰ÃÉş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ìÆØğúÿÿÿÿ8°‰ÃÉş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Û²úÙşÿÿÿÿ8°‰ÃÉş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÅÈúûÿÿÿÿ8¾‰ÃÉş/
+L
+java:S1874"/Remove this use of "getYear"; it is deprecated.(Ñ‘òá8¿‰ÃÉş/
+R
+java:S1874"0Remove this use of "getMonth"; it is deprecated.(ËîĞÑøÿÿÿÿ8Á‰ÃÉş/
+P
+java:S1874 ".Remove this use of "getDay"; it is deprecated.(¹âÖşÿÿÿÿ8Á‰ÃÉş/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ªäİÃúÿÿÿÿ8ıŒÃÉş/
+T	java:S1061"9Replace this use of System.out or System.err by a logger.(ŞüÈ8ıŒÃÉş/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÿ‹¨ùÿÿÿÿ8ÿŒÃÉş/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ‘òá8ÿŒÃÉş/
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(è€=
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üİ¸–ûÿÿÿÿ

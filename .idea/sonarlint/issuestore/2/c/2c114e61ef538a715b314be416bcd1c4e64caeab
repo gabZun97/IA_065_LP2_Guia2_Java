@@ -1,0 +1,20 @@
+
+[
+java:S1659">Declare "j" and all following declarations on a separate line.(øêÀµ8…µµÉş/
+I
+java:S1197",Move the array designators [][] to the type.(¡ğÉ8ŒµµÉş/
+G
+java:S1197"*Move the array designators [] to the type.(şó“ã8µµÉş/
+G
+java:S1197"*Move the array designators [] to the type.(¿“Ñ‘8‘µµÉş/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ùŒ«Ú8”µµÉş/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡„¼­8µµÉş/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ß”ÿ8ŸµµÉş/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½ã‚¾8 µµÉş/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8¡µµÉş/
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¿ã½8£µµÉş/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(›‡ışÿÿÿÿ8¥µµÉş/
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(•ÎÅª8§µµÉş/
+T	java:S106;"9Replace this use of System.out or System.err by a logger.(ê¶ÉY8¨µµÉş/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™şºÁ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üİ¸–ûÿÿÿÿ

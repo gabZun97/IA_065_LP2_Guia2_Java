@@ -1,0 +1,60 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 87 to the 15 allowed.(œû¿Ø8è‡¦Çş/
+W
+java:S1854":Remove this useless assignment to local variable "seguir".(–åÜ8ÌºéÇş/
+[
+java:S18547"9Remove this useless assignment to local variable "total".(¼‘ìØÿÿÿÿÿ8­Ï¤Çş/
+@
+java:S1659"%Declare "jornada" on a separate line.(öæ­ùÿÿÿÿ
+Y
+java:S1659"CDeclare "Ttarde" and all following declarations on a separate line.(”çÖÜ
+`
+java:S1659"EDeclare "impuesto" and all following declarations on a separate line.(¶ó¼¡ÿÿÿÿÿ
+?
+java:S1481")Remove this unused "caso" local variable.(ÅÆÂÙ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù€•
+M	java:S106"9Replace this use of System.out or System.err by a logger.(íû 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù€•
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Ş£©ìÿÿÿÿÿ8©©˜Çş/
+j
+java:S1871z"HThis case's code block is the same as the block for the case on line 56.(ÌÊëÎüÿÿÿÿ8ôæÇş/
+j
+java:S1871N"HThis case's code block is the same as the block for the case on line 56.(‰ÆÄÎşÿÿÿÿ8ß¯¸Çş/
+e
+java:S1871"HThis case's code block is the same as the block for the case on line 56.(û¿48õæÇş/
+j
+java:S1871d"HThis case's code block is the same as the block for the case on line 56.(µ»ïşıÿÿÿÿ8£ÏÍÇş/
+m	java:S128$"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8Áá¶Çş/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ë¶Ìüÿÿÿÿ8»Ï¤Çş/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(ß¯Áä8½Ï¤Çş/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ë¶Ìüÿÿÿÿ8Çá¶Çş/
+U	java:S106;"9Replace this use of System.out or System.err by a logger.(ß¯Áä8Èá¶Çş/
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(ë¶Ìüÿÿÿÿ8ä¯¸Çş/
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(ß¯Áä8å¯¸Çş/
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(ë¶Ìüÿÿÿÿ8“ŸæÇş/
+U	java:S106g"9Replace this use of System.out or System.err by a logger.(ß¯Áä8•ŸæÇş/
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(ë¶Ìüÿÿÿÿ8˜ŸæÇş/
+U	java:S106}"9Replace this use of System.out or System.err by a logger.(ß¯Áä8ŸæÇş/
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(ë¶Ìüÿÿÿÿ8 ŸæÇş/
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(ß¯Áä8¡ŸæÇş/
+[	java:S106§"9Replace this use of System.out or System.err by a logger.(ë¶Ìüÿÿÿÿ8£ŸæÇş/
+V	java:S106©"9Replace this use of System.out or System.err by a logger.(ß¯Áä8¤ŸæÇş/
+V	java:S106½"9Replace this use of System.out or System.err by a logger.(Ï®Î8¦ŸæÇş/
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(Ÿ·Õ–8îºéÇş/
+V	java:S106Á"9Replace this use of System.out or System.err by a logger.(Œà†€8ïºéÇş/
+[	java:S106Â"9Replace this use of System.out or System.err by a logger.(ì‡ªîşÿÿÿÿ8ïºéÇş/
+[	java:S106Ã"9Replace this use of System.out or System.err by a logger.(×ÃŞöøÿÿÿÿ8ğºéÇş/
+[	java:S106Ä"9Replace this use of System.out or System.err by a logger.(Ä¾·½üÿÿÿÿ8ğºéÇş/
+V	java:S106Æ"9Replace this use of System.out or System.err by a logger.(­€ä»8ñºéÇş/
+Š
+java:S1192'"mDefine a constant instead of duplicating this literal " Cuanto tiempo duro la llamada en minutos ? " 7 times.(ß¯Áä8æ¯¸Çş/
+¨
+java:S1192%"…Define a constant instead of duplicating this literal " En que jornada hizo la llamada ?
+1. Por la maÃ±ana
+2. Por la tarde " 7 times.(ë¶Ìüÿÿÿÿ8æ¯¸Çş/
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ©¤
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”çÖÜ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”çÖÜ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ğÄ½Ìúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üİ¸–ûÿÿÿÿ

@@ -1,0 +1,13 @@
+
+C
+java:S1659"&Declare "columnas" on a separate line.(‹ŽÏÃ8ýä¤Éþ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚Þü´8Žå¤Éþ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìœ¯Š8‘å¤Éþ/
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(É§§^8–å¤Éþ/
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ìœ¯Š8—å¤Éþ/
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(†——ü8šå¤Éþ/
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(°çÖÉ8œå¤Éþ/
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8å¤Éþ/
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ã•°8žå¤Éþ/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À“‰ø
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÝ¸–ûÿÿÿÿ

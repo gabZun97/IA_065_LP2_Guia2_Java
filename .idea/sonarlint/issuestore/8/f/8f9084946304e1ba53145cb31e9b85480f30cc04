@@ -1,0 +1,36 @@
+
+^
+java:S1854"ARemove this useless assignment to local variable "cadenaPrimera".(ğ•8†Ùûáş/
+^
+java:S1854"ARemove this useless assignment to local variable "cadenaSegunda".(ñÆÃÉ8‡Ùûáş/
+g
+java:S1130"KRemove the redundant 'java.io.IOException' thrown exception declaration(s).(Üºí>8™Ùûáş/
+`
+java:S1659">Declare "j" and all following declarations on a separate line.(ãäÚ‘üÿÿÿÿ8œÙûáş/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(º¤ÅÑ8«Ùûáş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚Ä«öüÿÿÿÿ8·Ùûáş/
+O
+java:S1481"2Remove this unused "cadenaPrimera" local variable.(ğ•8»Ùûáş/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÃŞ¥»şÿÿÿÿ8»Ùûáş/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(àØ…8½Ùûáş/
+O
+java:S1481"2Remove this unused "cadenaSegunda" local variable.(ñÆÃÉ8¿Ùûáş/
+T	java:S106#"9Replace this use of System.out or System.err by a logger.(Ïè‡j8ÃÙûáş/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(œâüĞûÿÿÿÿ8ÅÙûáş/
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(Ïè‡j8ÆÙûáş/
+U	java:S106("9Replace this use of System.out or System.err by a logger.(Û†Ñ©8ÈÙûáş/
+T	java:S106+"9Replace this use of System.out or System.err by a logger.(Ïè‡j8ÊÙûáş/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(º¤ÅÑ8ÌÙûáş/
+G
+java:S1197."*Move the array designators [] to the type.(ŠÀÎñ8ÚÙûáş/
+E	java:S108/")Either remove or fill this block of code.(“™ĞÛ8ÁÚûáş/
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(íÑ·ñøÿÿÿÿ8ÂÚûáş/
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(ÃŞ¥»şÿÿÿÿ8ÄÚûáş/
+G
+java:S11975"*Move the array designators [] to the type.(­ƒµØ8ÅÚûáş/
+J	java:S1086")Either remove or fill this block of code.(Ï¤„¬ùÿÿÿÿ8ÈÚûáş/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(©µ¥İùÿÿÿÿ8ÉÚûáş/
+¨
+java:S1192#"‹Define a constant instead of duplicating this literal "+---------------+---------------------------+--------------------------+%n" 3 times.(Ïè‡j8àÚûáş/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(àÃÛÆ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üİ¸–ûÿÿÿÿ

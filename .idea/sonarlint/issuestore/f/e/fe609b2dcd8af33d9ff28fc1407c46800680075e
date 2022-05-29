@@ -1,0 +1,11 @@
+
+T
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ8ž¼ŽÆþ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÛ¡Úùÿÿÿÿ8£¼ŽÆþ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(÷Å«ù8¤¼ŽÆþ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ýúÿøúÿÿÿÿ8¥¼ŽÆþ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤ÇÜ“ÿÿÿÿÿ8¥¼ŽÆþ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÈŠó8¦¼ŽÆþ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šŠÎþøÿÿÿÿ8¦¼ŽÆþ/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(à’ŒÂ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üÝ¸–ûÿÿÿÿ
